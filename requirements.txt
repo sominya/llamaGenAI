@@ -1,2 +1,6 @@
 llama-index
 logging
+chromadb
+llama-index-vector-stores-chroma
+llama-index-llms-openai
+nest_asyncio
